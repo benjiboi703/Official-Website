@@ -2,7 +2,7 @@
 
 function Github()
 {
-    window.open("https:/www.github.com/BenjiBoi703","_blank");
+    window.open("https://www.github.com/BenjiBoi703","_blank");
 }
 function openDiscord()
 {
