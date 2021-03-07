@@ -1,4 +1,40 @@
 h1
 {
-    color:solid red;
+    color:red;
+    font-family: 'Montserrat', sans-serif;
+}
+button.Discord
+{
+    color:black;
+    background-color:white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0 auto;
+    display:block;
+    
+}
+button.Github
+{
+    color:black;
+    background-color:white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0 auto;
+    display:block;
+    
+}
+button.Discord:hover
+{
+    background-color: rgb(0, 119, 255);
+}
+button.Github:hover
+{
+    background-color: rgb(0, 0, 0);
+    color:white;
 }
