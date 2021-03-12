@@ -1,10 +1,13 @@
 
-
-function Github()
+function Socials()
 {
-    window.open("https://www.github.com/BenjiBoi703","_blank");
+    window.location.href = "socials/socials.html";
 }
-function openDiscord()
+function About()
 {
-    window.open("https://discord.gg/A87U3Cp","_blank");
+    window.location.href = "about/about.html";
+}
+function Home()
+{
+    window.location.href = "";
 }
